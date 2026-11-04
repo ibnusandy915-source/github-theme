@@ -1,15 +1,15 @@
 <h1 align="center">Welcome to My GitHub 👋</h1>
 
 <p align="center">
-  <b>Arie — Android • AI • Game Tech Enthusiast</b><br/>
+  <b>Ibnu — Web • AI • IoT Enthusiast</b><br/>
   Turning ideas into real, working software.
 </p>
 
 ---
 
-## 👋 Hi, I'm **Arie**
+## 👋 Hi, I'm **Ibnu**
 
-- 💻 **Android & AI Developer** (in progress)
+- 💻 **Web Developer** (in progress)
 - 🎮 Aspiring **Game Developer** (technical-focused, not just design)
 - 🌱 Currently learning **Java, Android Development, Machine Learning**
 - 🧠 Strong interest in **performance optimization & system-level thinking**
@@ -21,10 +21,10 @@
 <div align="center">
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=airyshtoteles&show_icons=true&theme=midnight-purple&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibnusandy915-source&show_icons=true&theme=midnight-purple&hide_border=true)
 
 ### 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=airyshtoteles&theme=midnight-purple&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=ibnusandy915-source&theme=midnight-purple&hide_border=true)
 
 </div>
 
